@@ -12,18 +12,18 @@ This is a port of Jellyfish (https://github.com/jamesturk/jellyfish) to the C# p
 ## Algorithms ported so far:
 - Phonetic encoding:
     - [x] American Soundex
-    - [ ] Metaphone |uncheck|
-    - [ ] NYSIIS (New York State Identification and Intelligence System) |uncheck|
+    - [ ] Metaphone
+    - [ ] NYSIIS (New York State Identification and Intelligence System)
     - [ ] Match Rating Codex |uncheck|
 
 
 - String comparison:
-    - [ ] Levenshtein Distance |uncheck|
-    - [ ] Damerau-Levenshtein Distance |uncheck|
-    - [ ] Jaro Distance |uncheck|
-    - [ ] Jaro-Winkler Distance |uncheck|
-    - [ ] Match Rating Approach Comparison |uncheck|
-    - [ ] Hamming Distance |uncheck|
+    - [ ] Levenshtein Distance
+    - [ ] Damerau-Levenshtein Distance
+    - [ ] Jaro Distance
+    - [ ] Jaro-Winkler Distance
+    - [ ] Match Rating Approach Comparison
+    - [ ] Hamming Distance
 
 
 ## License
