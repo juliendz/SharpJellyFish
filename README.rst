@@ -15,7 +15,7 @@ Planned framework versions:
 Algorithms ported so far:
 ------------------------------------
 - Phonetic encoding:
-    - American Soundex [X]
+    - American Soundex U+2611
     - Metaphone [ ]
     - NYSIIS (New York State Identification and Intelligence System) [ ]
     - Match Rating Codex [ ]
