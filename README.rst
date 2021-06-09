@@ -1,3 +1,19 @@
+.. |check| raw:: html
+
+    <input checked=""  type="checkbox">
+
+.. |check_| raw:: html
+
+    <input checked=""  disabled="" type="checkbox">
+
+.. |uncheck| raw:: html
+
+    <input type="checkbox">
+
+.. |uncheck_| raw:: html
+
+    <input disabled="" type="checkbox">
+
 SharpJellyFish: JellyFish for .Net(3.5)
 ==============================
 
@@ -15,19 +31,19 @@ Planned framework versions:
 Algorithms ported so far:
 ------------------------------------
 - Phonetic encoding:
-    - American Soundex U+2611
-    - Metaphone [ ]
-    - NYSIIS (New York State Identification and Intelligence System) [ ]
-    - Match Rating Codex [ ]
+    - American Soundex |check|
+    - Metaphone |uncheck|
+    - NYSIIS (New York State Identification and Intelligence System) |uncheck|
+    - Match Rating Codex |uncheck|
 
 
 - String comparison:
-    - Levenshtein Distance [ ]
-    - Damerau-Levenshtein Distance [ ]
-    - Jaro Distance [ ]
-    - Jaro-Winkler Distance [ ]
-    - Match Rating Approach Comparison [ ]
-    - Hamming Distance [ ]
+    - Levenshtein Distance |uncheck|
+    - Damerau-Levenshtein Distance |uncheck|
+    - Jaro Distance |uncheck|
+    - Jaro-Winkler Distance |uncheck|
+    - Match Rating Approach Comparison |uncheck|
+    - Hamming Distance |uncheck|
 
 
 
