@@ -1,6 +1,7 @@
 # SharpJellyFish: JellyFish for .Net(3.5)
 
 This is a port of Jellyfish (https://github.com/jamesturk/jellyfish) to the C# programming language. 
+The license file for Jellyfish can be found in the file named 'jellyfish_LICENSE' in the source distribution.
 
 ## Supported framework versions:
 .Net 3.5
